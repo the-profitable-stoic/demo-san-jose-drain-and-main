@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "San Jose Drain and Main",
+    "phone": "+14088542863",
+    "category": "plumber",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Jose Plumbing Experts",
+      "heroSubline": "Reliable solutions for drain and main issues. Serving San Jose and the surrounding Bay Area.",
+      "aboutTitle": "Your Trusted San Jose Plumbing Partner",
+      "aboutText": [
+        "San Jose Drain and Main started with a simple mission: to provide honest, reliable plumbing services to our neighbors. We're a local team, born and raised right here in the South Bay, and we understand the unique challenges our community faces.",
+        "We believe in doing the job right the first time. Our approach combines time-tested techniques with the latest technology to ensure lasting solutions. We prioritize clear communication, transparent pricing, and a commitment to exceeding your expectations.",
+        "We're more than just plumbers; we're members of this community. We actively support local schools and organizations, and we're dedicated to providing exceptional service that keeps San Jose running smoothly. When you choose us, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand plumbing emergencies don't wait. Expect prompt, reliable service when you need it most."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team of licensed plumbers has years of experience tackling even the toughest plumbing challenges in older and newer homes."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Need a Plumber?",
+      "ctaSubline": "Call us today for fast, reliable service in San Jose and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast and effective drain cleaning services for any clog.",
+        "description": "Clogged drains are a common problem in San Jose homes, especially with the older infrastructure in neighborhoods like Willow Glen. Our drain cleaning services utilize advanced techniques like snaking and hydro jetting to completely clear blockages and restore proper flow. We handle everything from minor sink clogs to major sewer line backups. We also offer preventative maintenance plans to keep your drains flowing freely and prevent future issues. Given the hard water common in the Bay Area, mineral buildup can be a significant contributor to drain problems; we address this directly. Regular drain cleaning can prevent costly repairs down the line, especially in older homes with aging pipes.\n\nWe'll diagnose the cause of your drain problem using camera inspections to identify the source and extent of the blockage. Whether it's hair, grease, or tree roots, we have the tools and expertise to resolve it efficiently. We ensure minimal disruption to your home and leave the work area clean.\n\nOur team is equipped to handle any drain cleaning need, from simple clogs to complex sewer line issues. We understand the urgency of drain problems and offer prompt, reliable service to get your plumbing back in working order.",
+        "process": [
+          "Inspection: Determine the cause and location of the clog.",
+          "Cleaning: Utilize snaking or hydro jetting to remove the blockage.",
+          "Verification: Confirm clear flow with camera inspection.",
+          "Prevention: Offer tips and maintenance plans to prevent future clogs."
+        ],
+        "benefits": [
+          "Fast and effective clog removal",
+          "Prevention of future drain problems",
+          "Improved water flow",
+          "Protection of your plumbing system"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend professional drain cleaning at least once a year, or more frequently if you experience recurring clogs or slow drainage."
+          },
+          {
+            "question": "What is hydro jetting?",
+            "answer": "Hydro jetting uses high-pressure water to blast away stubborn blockages and buildup from your drain pipes, providing a more thorough cleaning than traditional snaking."
+          },
+          {
+            "question": "Is drain cleaning messy?",
+            "answer": "Our technicians take precautions to minimize mess and protect your property during drain cleaning services. We'll clean up the work area thoroughly after the job is complete."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-services",
+        "name": "Water Heater Services",
+        "shortDescription": "Expert installation, repair, and maintenance for all types of water heaters.",
+        "description": "Given San Jose's mild climate, a reliable water heater is essential for comfortable living. We offer comprehensive water heater services, including installation, repair, and maintenance for both traditional tank and tankless models. We understand the nuances of different water heater brands and can recommend the best solution for your home and budget. We work with gas, electric, and propane water heaters, ensuring your hot water needs are met efficiently and safely. Our technicians are trained to handle any water heater issue, from leaks and temperature fluctuations to complete system failures.\n\nWe also specialize in tankless water heater installations, which are becoming increasingly popular in newer San Jose developments due to their energy efficiency and space-saving design. We can help you determine if a tankless water heater is right for your home and provide expert installation services. Regular maintenance is crucial for extending the life of your water heater and preventing costly repairs. We offer comprehensive maintenance plans to keep your water heater running smoothly and efficiently.\n\nWe prioritize safety and efficiency in all our water heater services. Our technicians are licensed and insured, and we adhere to all local codes and regulations. We'll ensure your water heater is installed and maintained to the highest standards.",
+        "process": [
+          "Assessment: Evaluate your hot water needs and existing system.",
+          "Selection: Recommend the best water heater option for your home.",
+          "Installation: Expert installation according to manufacturer specifications.",
+          "Testing: Verify proper operation and safety."
+        ],
+        "benefits": [
+          "Reliable hot water supply",
+          "Energy efficiency",
+          "Extended water heater lifespan",
+          "Safe and compliant installation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "Traditional tank water heaters typically last 8-12 years, while tankless water heaters can last 20 years or more with proper maintenance."
+          },
+          {
+            "question": "What are the benefits of a tankless water heater?",
+            "answer": "Tankless water heaters provide on-demand hot water, eliminating the need for a storage tank. They are more energy-efficient and can save you money on your utility bills."
+          },
+          {
+            "question": "How do I know if my water heater needs to be replaced?",
+            "answer": "Signs that your water heater may need to be replaced include leaks, rust, strange noises, and inconsistent water temperature."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Accurate leak detection services to prevent water damage.",
+        "description": "Hidden leaks can cause significant damage to your San Jose home, especially with the region's susceptibility to earthquakes that can compromise pipe integrity. Our leak detection services utilize advanced technology to pinpoint the source of leaks, even those hidden behind walls or under floors. We use non-invasive methods to minimize disruption to your property. Early leak detection can prevent costly repairs related to water damage, mold growth, and structural issues. We understand the urgency of leak detection and offer prompt, reliable service to protect your home.\n\nWe use acoustic listening devices, thermal imaging, and other advanced tools to detect leaks with precision. Our technicians are trained to identify even the smallest leaks and provide accurate assessments of the damage. We provide detailed reports and recommendations for repair.\n\nWe work with homeowners, property managers, and insurance companies to resolve leak issues quickly and efficiently. We're committed to providing accurate leak detection services that protect your home and save you money.",
+        "process": [
+          "Inspection: Thorough inspection of your plumbing system.",
+          "Detection: Utilize advanced technology to locate leaks.",
+          "Assessment: Evaluate the extent of the damage.",
+          "Reporting: Provide a detailed report and recommendations."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Reduced water bills",
+          "Early detection of hidden leaks",
+          "Protection of your property"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, water stains on walls or ceilings, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What is the cost of leak detection?",
+            "answer": "The cost of leak detection varies depending on the complexity of the job. Contact us for a free estimate."
+          },
+          {
+            "question": "How quickly can you detect a leak?",
+            "answer": "We can typically schedule a leak detection appointment within 24-48 hours."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair-replacement",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Reliable pipe repair and replacement services for all types of pipes.",
+        "description": "Aging pipes are a common issue in San Jose's established neighborhoods like Rose Garden and Willow Glen. We offer comprehensive pipe repair and replacement services to address leaks, corrosion, and other pipe-related problems. We work with all types of pipes, including copper, PVC, and PEX. Our technicians are trained to assess the condition of your pipes and recommend the best solution for your needs. We use trenchless pipe repair methods whenever possible to minimize disruption to your property. Proper pipe repair and replacement can prevent water damage, improve water quality, and extend the life of your plumbing system.\n\nWe provide expert pipe repair and replacement services for both residential and commercial properties. We understand the importance of a sound plumbing system and are committed to providing reliable solutions that meet your needs and budget. We ensure minimal disruption to your property during pipe repair and replacement projects.\n\nOur team is equipped to handle any pipe repair or replacement need, from minor leaks to complete system overhauls. We understand the urgency of pipe problems and offer prompt, reliable service to get your plumbing back in working order.",
+        "process": [
+          "Inspection: Assess the condition of your pipes.",
+          "Repair/Replacement: Repair or replace damaged pipes using appropriate methods.",
+          "Testing: Verify proper function and leak-free connections.",
+          "Restoration: Restore the work area to its original condition."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Improved water quality",
+          "Extended plumbing system lifespan",
+          "Reliable water flow"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my pipes need to be replaced?",
+            "answer": "Signs that your pipes may need to be replaced include frequent leaks, low water pressure, and discolored water."
+          },
+          {
+            "question": "What is trenchless pipe repair?",
+            "answer": "Trenchless pipe repair methods allow us to repair or replace pipes without digging extensive trenches, minimizing disruption to your property."
+          },
+          {
+            "question": "How long does pipe repair or replacement take?",
+            "answer": "The duration of pipe repair or replacement depends on the complexity of the job. We'll provide a detailed timeline before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Expert sewer line repair, replacement, and cleaning services.",
+        "description": "Sewer line problems can be a major headache for San Jose homeowners. We offer comprehensive sewer line services, including repair, replacement, and cleaning. We use advanced technology to diagnose and resolve sewer line issues quickly and efficiently. We understand the urgency of sewer line problems and offer 24/7 emergency service. We can handle everything from minor clogs to complete sewer line replacements. Given the older housing stock in areas like Japantown, sewer line maintenance is crucial.\n\nOur sewer line services include video inspection, trenchless repair, and traditional excavation. We'll assess the condition of your sewer line and recommend the best solution for your needs. We use high-quality materials and workmanship to ensure lasting results. We prioritize minimizing disruption to your property during sewer line projects.\n\nWe work with homeowners, businesses, and municipalities to provide reliable sewer line services. We're committed to protecting the environment and complying with all local regulations.",
+        "process": [
+          "Inspection: Video inspection to assess the condition of the sewer line.",
+          "Cleaning: Remove blockages and debris from the sewer line.",
+          "Repair/Replacement: Repair or replace damaged sections of the sewer line.",
+          "Verification: Verify proper function and flow."
+        ],
+        "benefits": [
+          "Prevention of sewer backups",
+          "Improved drainage",
+          "Protection of your property",
+          "Compliance with local regulations"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my sewer line is clogged?",
+            "answer": "Signs of a clogged sewer line include slow drains, gurgling sounds in your plumbing, and sewage backups."
+          },
+          {
+            "question": "What is trenchless sewer line repair?",
+            "answer": "Trenchless sewer line repair methods allow us to repair or replace sewer lines without digging extensive trenches, minimizing disruption to your property."
+          },
+          {
+            "question": "How often should I have my sewer line inspected?",
+            "answer": "We recommend having your sewer line inspected every 1-2 years, especially if you live in an older home."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, toilets, sinks, and other plumbing fixtures.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your San Jose home. We offer professional fixture installation services for faucets, toilets, sinks, showers, and more. We work with all major brands and can help you choose the right fixtures for your style and budget. Proper fixture installation ensures leak-free performance and extends the life of your plumbing system. We can handle everything from simple faucet replacements to complete bathroom renovations. Many homeowners in Almaden Valley are upgrading to low-flow fixtures for water conservation.\n\nOur fixture installation services include removal of old fixtures, installation of new fixtures, and connection to existing plumbing lines. We ensure all connections are tight and leak-free. We provide expert advice on fixture selection and maintenance. We prioritize customer satisfaction and provide clean, professional service.\n\nWe work with homeowners, contractors, and designers to provide reliable fixture installation services. We're committed to providing high-quality workmanship and exceeding your expectations.",
+        "process": [
+          "Selection: Assist with selecting the right fixtures for your needs.",
+          "Removal: Remove old fixtures carefully.",
+          "Installation: Install new fixtures according to manufacturer specifications.",
+          "Testing: Verify proper function and leak-free connections."
+        ],
+        "benefits": [
+          "Enhanced home aesthetics",
+          "Improved functionality",
+          "Water conservation",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does fixture installation take?",
+            "answer": "The duration of fixture installation depends on the type of fixture and the complexity of the job. We'll provide a detailed timeline before starting any work."
+          },
+          {
+            "question": "Do you offer a warranty on your fixture installation services?",
+            "answer": "Yes, we offer a warranty on our fixture installation services to ensure your satisfaction."
+          },
+          {
+            "question": "Can you help me choose the right fixtures for my home?",
+            "answer": "Yes, we can provide expert advice on fixture selection based on your style, budget, and water conservation goals."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main is proud to offer comprehensive plumbing services to the residents and businesses of San Jose, California. As the heart of Silicon Valley, San Jose demands reliable and efficient plumbing solutions to keep pace with its dynamic growth and technological advancements. We understand the unique needs of this community, from older homes in historic neighborhoods to modern commercial buildings downtown. \n\nOur team of experienced plumbers is equipped to handle any plumbing issue, big or small. Whether you're dealing with a leaky faucet, a clogged drain, or a major sewer line repair, we're here to provide prompt, professional service. We are committed to delivering exceptional workmanship and customer satisfaction in every job we undertake throughout San Jose.",
+        "localContext": "San Jose's vibrant culture and innovative spirit make it a unique place to live and work, and San Jose Drain and Main is dedicated to serving its plumbing needs with excellence.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "Santa Clara, home to Levi's Stadium and a thriving tech industry, relies on dependable plumbing services to support its residents and businesses. San Jose Drain and Main extends its expertise to Santa Clara, providing a full range of plumbing solutions tailored to this dynamic city. We understand the importance of efficient and effective plumbing for both residential and commercial properties.\n\nFrom routine maintenance to emergency repairs, our team is dedicated to delivering quality workmanship and exceptional customer service in Santa Clara. We are committed to ensuring your plumbing systems function optimally, allowing you to focus on what matters most.",
+        "localContext": "Santa Clara's blend of innovation and community spirit makes it a great place to live, and San Jose Drain and Main is proud to serve its plumbing needs.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main proudly serves the city of Sunnyvale, CA, providing top-notch plumbing services to homeowners and businesses alike. As a key city in Silicon Valley, Sunnyvale is known for its innovation and progress, and we understand the need for reliable plumbing systems to support its residents and commercial ventures. We offer a wide array of services, from routine maintenance to complex repairs.\n\nOur team of skilled plumbers is equipped to handle any plumbing issue, ensuring your systems are running smoothly and efficiently. We are dedicated to providing exceptional customer service and quality workmanship throughout Sunnyvale.",
+        "localContext": "Sunnyvale's dedication to progress and community makes it a wonderful place to live, and San Jose Drain and Main is committed to providing reliable plumbing solutions to its residents.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main is delighted to offer our comprehensive plumbing services to the residents and businesses of Milpitas, California. As a thriving community in the heart of Silicon Valley, Milpitas depends on reliable and efficient plumbing systems to support its growth and development. We recognize the unique needs of this diverse city, from older residential neighborhoods to modern commercial developments.\n\nOur team of experienced plumbers is prepared to tackle any plumbing challenge, no matter how big or small. Whether you're facing a minor leak, a clogged drain, or a major plumbing emergency, we are here to provide fast, professional service. We are dedicated to delivering exceptional workmanship and ensuring customer satisfaction on every project we undertake in Milpitas.",
+        "localContext": "Milpitas's strong community spirit and thriving business environment make it a great place to live and work, and San Jose Drain and Main is proud to serve its plumbing needs.",
+        "nearbyAreas": [
+          "Fremont",
+          "San Jose",
+          "Sunnyvale"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main extends its plumbing services to Mountain View, CA, a city known for its innovation and tech-driven environment. We provide a full spectrum of plumbing services to meet the needs of Mountain View's residents and businesses. Our expertise ranges from routine maintenance and repairs to complex installations and emergency services.\n\nWe understand the importance of having a reliable plumbing system, and we're dedicated to ensuring your plumbing is functioning at its best. Our team is committed to providing quality workmanship and exceptional customer service in every job we undertake in Mountain View.",
+        "localContext": "Mountain View's innovative spirit and commitment to progress make it a unique place, and San Jose Drain and Main is dedicated to serving its plumbing needs with excellence.",
+        "nearbyAreas": [
+          "Palo Alto",
+          "Sunnyvale",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main proudly serves the residents and businesses of Palo Alto, CA, offering a wide range of plumbing services to meet their needs. Known for its prestigious university and affluent community, Palo Alto demands high-quality and reliable plumbing solutions. We understand the unique needs of this area, from historic homes to modern commercial buildings.\n\nOur team of experienced plumbers is equipped to handle any plumbing issue, big or small. Whether you need a simple repair or a complex installation, we're here to provide prompt, professional service. We are committed to delivering exceptional workmanship and customer satisfaction in every job we undertake in Palo Alto.",
+        "localContext": "Palo Alto's rich history and commitment to excellence make it a unique place, and San Jose Drain and Main is dedicated to serving its plumbing needs with the highest standards.",
+        "nearbyAreas": [
+          "Menlo Park",
+          "Mountain View",
+          "Los Altos Hills"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main is pleased to offer plumbing services to Cupertino, CA. Home to Apple headquarters, Cupertino demands reliable and innovative plumbing solutions. We understand the needs of both residential and commercial properties in this area, and provide tailored services to meet those needs.\n\nOur team provides a full range of plumbing services, from fixing leaks to installing new systems. We are committed to providing exceptional customer service and quality workmanship throughout Cupertino.",
+        "localContext": "Cupertino's progressive environment and focus on technology make it a unique community, and San Jose Drain and Main is dedicated to providing top-quality plumbing services to its residents.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Los Altos",
+          "Saratoga"
+        ]
+      },
+      {
+        "city": "Los Gatos",
+        "slug": "los-gatos-ca",
+        "state": "CA",
+        "content": "San Jose Drain and Main proudly extends our plumbing services to the charming town of Los Gatos, California. Known for its beautiful scenery and close-knit community, Los Gatos requires reliable and efficient plumbing solutions to maintain its homes and businesses. We understand the unique needs of this area, from historic properties to modern residences.\n\nOur team of skilled plumbers is prepared to handle any plumbing issue, big or small. Whether you're dealing with a leaky faucet, a clogged drain, or a major sewer line repair, we're here to provide prompt, professional service. We are committed to delivering exceptional workmanship and ensuring customer satisfaction on every project we undertake in Los Gatos.",
+        "localContext": "Los Gatos's small-town charm and beautiful surroundings make it a wonderful place to live, and San Jose Drain and Main is delighted to serve its plumbing needs.",
+        "nearbyAreas": [
+          "Saratoga",
+          "Campbell",
+          "Monte Sereno"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Drain Cleaning",
+        "text": "I had a severely clogged kitchen sink, and San Jose Drain and Main came to my rescue! The technician, David, was incredibly knowledgeable and friendly. He quickly diagnosed the problem and used a hydro jet to clear the blockage. My sink is now draining perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Water Heater Repair",
+        "text": "My water heater stopped working on a cold night. San Jose Drain and Main responded quickly and had a technician out within a few hours. He was able to diagnose and repair the issue efficiently. The price was reasonable, and I appreciate their prompt service.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "I suspected I had a hidden leak, and San Jose Drain and Main confirmed it. They used advanced equipment to pinpoint the exact location of the leak behind a wall. They provided a detailed report for my insurance company, and their quick action prevented further damage. Thank you!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Pipe Replacement",
+        "text": "I had several corroded pipes that needed to be replaced. San Jose Drain and Main provided a competitive quote and completed the job efficiently. The technicians were professional and cleaned up after themselves. I'm very happy with the quality of their work.",
+        "date": "2025-03-20"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Sewer Line Cleaning",
+        "text": "Our sewer line was backing up, causing a major mess. San Jose Drain and Main came out and cleared the blockage quickly. They were professional and courteous, and the price was fair. I would definitely use them again.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Fixture Installation",
+        "text": "San Jose Drain and Main installed a new toilet and sink in my bathroom. The installation was flawless, and the fixtures look great. The technician was very knowledgeable and provided helpful advice. I highly recommend their services.",
+        "date": "2025-04-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Jose Plumbing Experts | Drain & Main",
+        "description": "Reliable plumbing services in San Jose, CA. Drain cleaning, water heaters, leak detection, pipe repair. Call now!"
+      },
+      "about": {
+        "title": "About San Jose Drain and Main",
+        "description": "Learn about San Jose Drain and Main: local plumbers providing reliable service in San Jose and surrounding areas. Experienced & trusted."
+      },
+      "services": {
+        "title": "San Jose Plumbing Services | Drain & Main",
+        "description": "Comprehensive plumbing services in San Jose, CA. Drain cleaning, water heater repair, leak detection, pipe replacement. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact San Jose Drain and Main",
+        "description": "Contact San Jose Drain and Main for reliable plumbing services in San Jose, CA. Call us today for a free estimate!"
+      },
+      "reviews": {
+        "title": "San Jose Drain and Main Reviews",
+        "description": "Read reviews from satisfied customers of San Jose Drain and Main. Reliable plumbing services in San Jose, CA."
+      },
+      "service-areas": {
+        "title": "San Jose Drain and Main Service Areas",
+        "description": "San Jose Drain and Main provides plumbing services throughout San Jose and surrounding areas. Check if we serve your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-services": "/images/service-water-heater-services.webp",
+      "leak-detection": "/images/service-leak-detection.webp",
+      "pipe-repair-replacement": "/images/service-pipe-repair-replacement.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-services": {
+        "src": "/images/service-water-heater-services.webp",
+        "srcset": "/images/service-water-heater-services-400w.webp 400w, /images/service-water-heater-services-800w.webp 800w, /images/service-water-heater-services-1200w.webp 1200w, /images/service-water-heater-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair-replacement": {
+        "src": "/images/service-pipe-repair-replacement.webp",
+        "srcset": "/images/service-pipe-repair-replacement-400w.webp 400w, /images/service-pipe-repair-replacement-800w.webp 800w, /images/service-pipe-repair-replacement-1200w.webp 1200w, /images/service-pipe-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-san-jose-drain-and-main.dream-surge.com/sitemap-index.xml
